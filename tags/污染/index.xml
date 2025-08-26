@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>污染 on DataLearning</title>
-    <link>https://suai.tk/tags/%E6%B1%A1%E6%9F%93/</link>
+    <link>https://gt.suai.eu.org/tags/%E6%B1%A1%E6%9F%93/</link>
     <description>Recent content in 污染 on DataLearning</description>
     <image>
       <title>DataLearning</title>
-      <url>https://suai.tk/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://suai.tk/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://gt.suai.eu.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://gt.suai.eu.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.134.1</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
     <lastBuildDate>Fri, 14 Feb 2020 18:07:32 +0800</lastBuildDate>
-    <atom:link href="https://suai.tk/tags/%E6%B1%A1%E6%9F%93/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gt.suai.eu.org/tags/%E6%B1%A1%E6%9F%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>解决Github DNS污染</title>
-      <link>https://suai.tk/posts/solve_dns_about_github/</link>
+      <link>https://gt.suai.eu.org/posts/solve_dns_about_github/</link>
       <pubDate>Fri, 14 Feb 2020 18:07:32 +0800</pubDate>
-      <guid>https://suai.tk/posts/solve_dns_about_github/</guid>
+      <guid>https://gt.suai.eu.org/posts/solve_dns_about_github/</guid>
       <description>通过修改hosts来解决github访问缓慢、下载缓慢问题</description>
     </item>
   </channel>
